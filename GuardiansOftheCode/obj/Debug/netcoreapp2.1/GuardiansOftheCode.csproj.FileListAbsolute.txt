@@ -1,0 +1,11 @@
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\bin\Debug\netcoreapp2.1\GuardiansOftheCode.deps.json
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\bin\Debug\netcoreapp2.1\GuardiansOftheCode.runtimeconfig.json
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\bin\Debug\netcoreapp2.1\GuardiansOftheCode.runtimeconfig.dev.json
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\bin\Debug\netcoreapp2.1\GuardiansOftheCode.dll
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\bin\Debug\netcoreapp2.1\GuardiansOftheCode.pdb
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\obj\Debug\netcoreapp2.1\GuardiansOftheCode.csprojAssemblyReference.cache
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\obj\Debug\netcoreapp2.1\GuardiansOftheCode.csproj.CoreCompileInputs.cache
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\obj\Debug\netcoreapp2.1\GuardiansOftheCode.AssemblyInfoInputs.cache
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\obj\Debug\netcoreapp2.1\GuardiansOftheCode.AssemblyInfo.cs
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\obj\Debug\netcoreapp2.1\GuardiansOftheCode.dll
+C:\Users\wassi\source\repos\GuardiansOftheCode\GuardiansOftheCode\obj\Debug\netcoreapp2.1\GuardiansOftheCode.pdb
