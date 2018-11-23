@@ -22,5 +22,6 @@ namespace GuardiansOftheCode
         public static PrimaryPlayer Instance {
             get => _instance;
         }
+        
     }
 }
